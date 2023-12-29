@@ -1,0 +1,17 @@
+{"build" : {
+    "appId": "kontopro",
+    "productName": "KEY-e-catalogues",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "out/**/*"
+    ],
+    "mac": {
+      "target": "dmg"
+    },
+    "win": {
+      "target": "nsis"
+    }
+  }
+} 

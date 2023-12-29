@@ -1,0 +1,12 @@
+{
+  "main": "main.js",
+  "name": "KEY-e-ctalaogues",
+  "version": "2.0.0",
+  "devDependencies": {
+    "electron": "^28.1.0",
+    "electron-builder": "^24.9.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
