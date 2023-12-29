@@ -1,6 +1,7 @@
 {
   "main": "main.js",
-  "name": "KEY-e-ctalaogues",
+  "name": "key-catalogues",
+  "author": "kontogiannis",
   "version": "2.0.0",
   "devDependencies": {
     "electron": "^28.1.0",
